@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable-v24/home.xml" value="0.1545" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable-v24/ic_menu.xml" value="0.1535" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/cancel.xml" value="0.157" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/cosmetic_items.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/edit_text_round_bg_outline.xml" value="0.21" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/electronics.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_close.xml" value="0.1535" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_done.xml" value="0.21" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_furniture.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_notification.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_phamacy.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_photo.xml" value="0.21" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_sign_up.xml" value="0.157" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_sport.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_user.xml" value="0.1535" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/ic_women_s_items.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/men_s_items.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/user_card.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/user_card_large.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/drawable/watches.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_add_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_admin_order.xml" value="0.17074275362318841" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_admin_orders.xml" value="0.17074275362318841" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_admin_user.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_admin_users.xml" value="0.17255434782608695" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_category.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_category_results.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_check_out.xml" value="0.17074275362318841" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_notification.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_product.xml" value="0.17074275362318841" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_search_results.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/activity_sign_up.xml" value="0.18" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/appbar.xml" value="0.17074275362318841" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/item_customer.xml" value="0.12571428571428572" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/item_order.xml" value="0.17074275362318841" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/product_items.xml" value="0.17255434782608695" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/product_items_1.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/layout/toolbar.xml" value="0.17255434782608695" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/menu/activity_main_drawer.xml" value="0.209375" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/menu/main_menu.xml" value="0.209375" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/menu/navigation.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/NJNStore/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
